@@ -1,7 +1,0 @@
-plugins:
-  - artifactId: git
-    source:
-      version: latest
-  - artifactId: maven
-    source:
-      version: 3.9.4
