@@ -18,7 +18,7 @@ Follow these steps to set up and run the Jenkins pipeline:
 
    ```bash
    git clone https://github.com/toluolorode/Deployment-Pipeline.git
-   cd jenkins-pipeline-project
+   cd Deployment-Pipeline
    ```
 
 2. **Jenkins Configuration**:
